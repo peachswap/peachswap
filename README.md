@@ -1,3 +1,16 @@
+## PeachSwap Token
+
+https://etherscan.io/token/0x812c6770926956e88bdaa40a9ed6ee233832c4df
+
+## Uniswap V2: TAO 2
+
+https://etherscan.io/address/0xe4c778c5e43621962d69d3f2fa8d1f3d152e0ef1
+
+## Uniswap.info
+
+https://uniswap.info/token/0x812C6770926956e88BDAa40A9Ed6eE233832c4dF
+
+
 ### Dear 🍑🍑
 
 Whenever you need me, I’ll be here.

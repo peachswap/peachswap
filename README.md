@@ -5,6 +5,10 @@ https://peachswap.github.io
 
 https://etherscan.io/token/0x812c6770926956e88bdaa40a9ed6ee233832c4df
 
+## Buy TAO
+
+https://app.uniswap.org/#/swap?inputCurrency=0x812c6770926956e88bdaa40a9ed6ee233832c4df
+
 ## Uniswap V2: TAO 2
 
 https://etherscan.io/address/0xe4c778c5e43621962d69d3f2fa8d1f3d152e0ef1
